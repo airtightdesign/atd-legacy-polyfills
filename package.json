@@ -1,6 +1,6 @@
 {
   "name": "atd-legacy-polyfills",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bundles polyfills for legacy browsers",
   "main": "./dist/js/atd-legacy-polyfills.js",
   "scripts": {
