@@ -1,6 +1,6 @@
 {
   "name": "atd-legacy-polyfills",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bundles polyfills for legacy browsers",
   "main": "./dist/js/atd-legacy-polyfills.js",
   "scripts": {
@@ -29,7 +29,6 @@
   },
   "dependencies": {
     "custom-event-polyfill": "^0.3.0",
-    "es6-promise-polyfill": "^1.2.0",
     "es6-shim": "^0.35.3",
     "nodelist-foreach-polyfill": "^1.2.0",
     "whatwg-fetch": "^2.0.3"
